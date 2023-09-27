@@ -52,3 +52,18 @@ It is built on the shoulders of:
 1. Start the server with `grunt serve`
 2. In the lower left, click on the "play" button to start. The first slide will be up for 5 seconds, afterwards there are 20 slides which are up for 15 seconds each.
 3. To refresh and rewind, execute the `refill.sh` script.
+
+## Presenters and Order
+
+| Presenter | Presentation | Time |
+| --------- | ------------ | ---- |
+| George Westwater | Chef CI/CD: Sizzling Success with 1,200+ Pipelines, 13K Builds/Day, and You! | 8:35 |
+| David Crosby | Using Bookworm for Chef code context | 8:40 |
+|Mike Butler | How to Solve a Rubik's Cube | 9:00 |
+| Heather Thacker | Pastry Chef to Progress Chef | 9:05 |
+| Joe Nuspl | Team Building for $39.99 | 9:30 |
+| Stephanie Laingen | The Worst | 9:35 |
+| Ignite Improv | What I've Learned from Community | 10:15 |
+| Ignite Improv | Should Kids be taught DevOps | 10:20 |
+| Ignite Improv | Fun with Linting | 10:25 |
+| Ignite Improv | One More Round | 10:30 |
