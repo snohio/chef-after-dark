@@ -34,7 +34,7 @@ cat > /tmp/$$ <<EOF
 EOF
 
 i=1
-for file in $(find resources/images/rubookworm/ -type f)
+for file in $(find resources/images/bookworm/ -type f)
 do
     if [[ ! -e slides/${i}.html ]]; then
 	echo "" > slides/${i}.html
