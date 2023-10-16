@@ -55,15 +55,15 @@ It is built on the shoulders of:
 
 ## Presenters and Order
 
-| Presenter | Presentation | Time |
-| --------- | ------------ | ---- |
-| George Westwater | Chef CI/CD: Sizzling Success with 1,200+ Pipelines, 13K Builds/Day, and You! | 8:35 |
-| David Crosby | Using Bookworm for Chef code context | 8:40 |
-|Mike Butler | How to Solve a Rubik's Cube | 9:00 |
-| Heather Thacker | Pastry Chef to Progress Chef | 9:05 |
-| Joe Nuspl | Team Building for $39.99 | 9:30 |
-| Stephanie Laingen | The Worst | 9:35 |
-| Ignite Improv | What I've Learned from Community | 10:15 |
-| Ignite Improv | Should Kids be taught DevOps | 10:20 |
-| Ignite Improv | Fun with Linting | 10:25 |
-| Ignite Improv | One More Round | 10:30 |
+| Presenter         | Presentation                                                                 | Time  |
+| ----------------- | ---------------------------------------------------------------------------- | ----- |
+| George Westwater  | Chef CI/CD: Sizzling Success with 1,200+ Pipelines, 13K Builds/Day, and You! | 9:35  |
+| Dan-Joe Lopez     | How to Fail a Cookbook Code Review                                           | 9:40  |
+| Mike Butler       | How to Solve a Rubik's Cube                                                  | 9:45  |
+| Heather Thacker   | Pastry Chef to Progress Chef                                                 | 10:15 |
+| Milan Šťastný     | Automate Everything                                                          | 10:20 |
+| Stephanie Laingen | The Worst                                                                    | 10:25 |
+| Ignite Improv     | What I've Learned from Community                                             | 11:00 |
+| Ignite Improv     | Should Kids be taught DevOps                                                 | 11:05 |
+| Ignite Improv     | Lint This!                                                                   | 11:10 |
+| Ignite Improv     | One More Round?                                                              | 11:15 |
